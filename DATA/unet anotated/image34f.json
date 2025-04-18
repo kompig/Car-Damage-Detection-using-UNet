@@ -1,0 +1,104 @@
+{
+  "version": "5.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damaged door",
+      "points": [
+        [
+          27.256944444444436,
+          0.5787037037037037
+        ],
+        [
+          27.256944444444436,
+          9.25925925925926
+        ],
+        [
+          28.182870370370374,
+          23.032407407407405
+        ],
+        [
+          25.405092592592588,
+          36.22685185185185
+        ],
+        [
+          25.173611111111107,
+          47.916666666666664
+        ],
+        [
+          25.289351851851855,
+          57.06018518518518
+        ],
+        [
+          26.09953703703703,
+          66.43518518518518
+        ],
+        [
+          28.99305555555555,
+          72.33796296296296
+        ],
+        [
+          52.256944444444436,
+          74.65277777777777
+        ],
+        [
+          76.21527777777777,
+          76.1574074074074
+        ],
+        [
+          94.61805555555554,
+          75.92592592592592
+        ],
+        [
+          99.0,
+          69.55218855218855
+        ],
+        [
+          99.0,
+          56.13425925925925
+        ],
+        [
+          99.0,
+          39.81481481481481
+        ],
+        [
+          98.66898148148147,
+          18.402777777777775
+        ],
+        [
+          98.2060185185185,
+          6.25
+        ],
+        [
+          96.46990740740742,
+          2.4305555555555554
+        ],
+        [
+          95.3125,
+          1.3888888888888888
+        ],
+        [
+          84.89583333333334,
+          0.8101851851851851
+        ],
+        [
+          70.3125,
+          1.2731481481481481
+        ],
+        [
+          30.03472222222222,
+          0.8101851851851851
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\Dataset of car parts\\Damaged-Car-parts-prediction-using-YOLOv8-main\\data\\images\\fornot\\image34f.jpeg",
+  "imageData": "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",
+  "imageHeight": 100,
+  "imageWidth": 100
+}
